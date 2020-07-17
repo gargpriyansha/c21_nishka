@@ -1,1 +1,2 @@
-# c21_nishka
+# collisionAlgorithm
+Algorithm to detect collision between two objects
